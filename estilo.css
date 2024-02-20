@@ -11,10 +11,15 @@
 }
 
 body {
-    background-color: rgb(228, 190, 223);
+    background-color: rgb(255, 160, 160);
     font-family: "Audiowide", sans-serif;
 }
 
+#corpo {
+    text-align: left;
+    color: aqua;
+
+}
 h3 {
     font-family: "Audiowide", sans-serif;
 }
